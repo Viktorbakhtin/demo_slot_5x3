@@ -1,1 +1,1 @@
-# demo_slot_5x3
+# coin_toss
